@@ -1,0 +1,35 @@
+#game_table{
+  margin: auto;
+  border: 1px solid black;
+
+}
+
+h1{
+  margin: 25px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+
+body{
+  background-color: lightblue;
+}
+#game_table td {
+  border: solid 1px lightblue;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.state0 {
+  background-color: white !important;
+}
+
+.state1 {
+  background-color: red !important;
+}
+
+.state2 {
+  background-color: green !important;
+}
+
